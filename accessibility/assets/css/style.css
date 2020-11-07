@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #353535;
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
+    color: #d9dcd6;
 }
 
 .header h1 {
@@ -79,7 +79,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #44ac5a;
+    background-color: #378a49;
 }
 
 .benefit-lead {
