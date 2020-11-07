@@ -8,4 +8,4 @@ Accessibility improvement:
 - Forground-background contrast adjustment made.
 - Image description added.
 
-![Lighthouse report](https://raw.githubusercontent.com/fzl666/fsf-files/main/accessibility/Lighthouse_report.pngN)
+![Lighthouse report](https://raw.githubusercontent.com/fzl666/fsf-files/main/accessibility/Lighthouse_report.png)
